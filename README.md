@@ -7,7 +7,7 @@
 <div>
   ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&show_icons=true&theme=graywhite&count_private=true)
   <img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi12345452&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&show_icons=true&theme=graywhite&count_private=true)
+</div>
 
 ## Technologies that I use in my daylife
 
