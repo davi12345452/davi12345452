@@ -6,7 +6,9 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wg452)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/davi_maia123/)
 
-## Tecnologias que eu uso no meu dia
+![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&show_icons=true&theme=graywhite&count_private=true)v
+
+## Technologies that I use in my daylife
 
 <div style="display: inline_block">
   <img align="center" alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -23,5 +25,5 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&show_icons=true&theme=graywhite&count_private=true)
+## About me
 
