@@ -1,5 +1,3 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!+☕&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
-
 ##  :grin: Hi, I'm Davi Janisch Maia 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-janisch-maia-a67275209/)
@@ -27,3 +25,8 @@
 
 ## About me
 
+<div>
+  <p>As a backend developer with a passion for technology, I bring a range of skills to the table. With experience in Python (including Pandas, Numpy, Scikit-learn, Selenium, and PyAutoGui), React, C, MySQL, AWS, Parse Server, Solidity, Node.js, and blockchain development tools such as Hardhat and Foundry, I am well-versed in a variety of technologies.</p>
+  <p>As a freelancer, I have worked on a range of projects, including data science, web scraping, automation, landing page creation, and smart contract development (NFTs, DAOs, DEXs, and Staking). In my current role as a full-stack blockchain developer at Weird Band, I am working on the development of a new NFT game, where I focus on developing Solidity smart contracts, integrating NFT metadata into Back4App, and creating the new landing page for NFT sales.</p>
+  <p>Alongside my work experience, I am currently pursuing a degree in Systems Information at UFSM and have also completed coursework in Computer Science at UFRGS and Data Science at Uninter. With a strong foundation in both theoretical and practical skills, I am eager to continue exploring new technologies and making an impact in the tech world.</p>
+</div>
