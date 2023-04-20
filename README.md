@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=202736&height=160&section=header&text=Welcome!+☕&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 ##  :grin: Hi, I'm Davi Janisch Maia 
-<br/>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-janisch-maia-a67275209/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wg452)
@@ -26,6 +25,3 @@
 
 ![Davi GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&show_icons=true&theme=graywhite&count_private=true)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](LINKEDIN)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](TWITTER)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](INSTAGRAM)
