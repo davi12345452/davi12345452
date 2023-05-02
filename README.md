@@ -4,10 +4,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/wg452)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/davi_maia123/)
 
-<div>
-  ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
-  <img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi12345452&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
-</div>
+
+![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
 
 ## Technologies that I use in my daylife
 
