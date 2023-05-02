@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/davi_maia123/)
 
 <div>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=davi12345452&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="Davi's GitHub stats"/>
+  ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
   <img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davi12345452&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </div>
 
