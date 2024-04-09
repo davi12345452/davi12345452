@@ -7,6 +7,14 @@
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
 
+## About me
+
+<div>
+  <p>As a backend developer with a passion for technology, I bring a range of skills to the table. With experience in Python (including Pandas, Numpy, Scikit-learn, Selenium, and PyAutoGui), React, C, MySQL, AWS, Parse Server, Solidity, Node.js, and blockchain development tools such as Hardhat and Foundry, I am well-versed in a variety of technologies.</p>
+  <p>As a freelancer, I have worked on a range of projects, including data science, web scraping, automation, landing page creation, and smart contract development (NFTs, DAOs, DEXs, and Staking). In my current role as a full-stack blockchain developer at Weird Band, I am working on the development of a new NFT game, where I focus on developing Solidity smart contracts, integrating NFT metadata into Back4App, and creating the new landing page for NFT sales.</p>
+  <p>Alongside my work experience, I am currently pursuing a degree in Systems Information at UFSM and have also completed coursework in Computer Science at UFRGS and Data Science at Uninter. With a strong foundation in both theoretical and practical skills, I am eager to continue exploring new technologies and making an impact in the tech world.</p>
+</div>
+
 ## Technologies that I use in my daylife
 
 <div style="display: inline_block">
@@ -24,10 +32,3 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div><br/>
 
-## About me
-
-<div>
-  <p>As a backend developer with a passion for technology, I bring a range of skills to the table. With experience in Python (including Pandas, Numpy, Scikit-learn, Selenium, and PyAutoGui), React, C, MySQL, AWS, Parse Server, Solidity, Node.js, and blockchain development tools such as Hardhat and Foundry, I am well-versed in a variety of technologies.</p>
-  <p>As a freelancer, I have worked on a range of projects, including data science, web scraping, automation, landing page creation, and smart contract development (NFTs, DAOs, DEXs, and Staking). In my current role as a full-stack blockchain developer at Weird Band, I am working on the development of a new NFT game, where I focus on developing Solidity smart contracts, integrating NFT metadata into Back4App, and creating the new landing page for NFT sales.</p>
-  <p>Alongside my work experience, I am currently pursuing a degree in Systems Information at UFSM and have also completed coursework in Computer Science at UFRGS and Data Science at Uninter. With a strong foundation in both theoretical and practical skills, I am eager to continue exploring new technologies and making an impact in the tech world.</p>
-</div>
