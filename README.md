@@ -22,7 +22,10 @@
   <img align="center" alt="mysql" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img align="center" alt="b4a" src="https://img.shields.io/badge/-Back4App-0C86E3?style=flat-square&logo=back4app&logoColor=white" />
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" />
+  <img align="center" alt="nestjs" src="https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  
 </div><br/>
+
 ## Feel free to connect with me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-janisch-maia-a67275209/)
