@@ -36,6 +36,7 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />  
   <img align="center" alt="nestjs" src="https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
   <img align="center" alt="express" src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 <div>
   <img align="center" alt="postgresql" src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
