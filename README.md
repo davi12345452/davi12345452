@@ -1,4 +1,4 @@
-## Hi, I'm Davi Janisch Maia, a Blockchain and Backend Developer
+## Hi, I'm Davi Janisch Maia, a Blockchain and Node Backend Developer
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
 
