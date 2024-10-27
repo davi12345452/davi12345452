@@ -1,30 +1,35 @@
-## Hi, I'm Davi Janisch Maia, a Blockchain and Node Backend Developer
+## Hi, I'm Davi Janisch Maia, a Software Engineer
 
 ![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
 
 ## About me
 
 <div>
-<p>Experienced developer with consolidated skills in Web3 application development, playing key roles as a backend developer and blockchain specialist in startup environments. I have played a crucial role in the projects I've been involved in, delivering high-quality software solutions with a focus on API development in Nest.js and custom smart contracts in Solidity.</p>
+<p>Experienced backend developer specializing in Node.js and blockchain technologies, with a focus on Solidity smart contract development. Proficient in creating robust backend solutions, designing and implementing APIs, and leveraging blockchain capabilities to enhance system functionality. Skilled in developing and deploying smart contracts, with a deep understanding of blockchain protocols and decentralized applications. Committed to delivering high-quality, scalable solutions that bridge traditional backend systems with cutting-edge blockchain technologies.</p>
+</div>
 
 <p>Skills:</p>
 
-<p>✔️ Development of Rest APIs with NestJS</p>
-<p>✔️ Development of databases and their integration using PostgreSQL with Prisma or TypeORM</p>
-<p>✔️ Creation of custom smart contracts (NFTs, RWAs, DEFI) in Solidity</p>
-<p>✔️ Building unit tests with Jest</p>
-<p>✔️ Use of Git and GitHub for code versioning, along with Docker</p>
-<p>✔️ Services like AWS, SendGrid, and Google Cloud</p>
+<p>✔️ Node.js and Express.js for server-side development</p>
+<p>✔️ NestJS framework for building efficient and scalable server-side applications</p>
+<p>✔️ RESTful API design and implementation</p>
+<p>✔️ Database development and integration (PostgreSQL, MySQL) using ORMs like Prisma or TypeORM</p>
+<p>✔️ Solidity smart contract development for various applications (NFTs, RWAs, DeFi)</p>
+<p>✔️ Ethereum blockchain integration and Web3.js library usage</p>
+<p>✔️ Unit testing with Jest and other testing frameworks</p>
+<p>✔️ Version control with Git and GitHub</p>
+<p>✔️ Containerization with Docker</p>
+<p>✔️ Cloud services implementation (AWS, Google Cloud)</p>
+<p>✔️ Asynchronous messaging with RabbitMQ</p>
+<p>✔️ Integration of blockchain-related APIs (Moralis, Metamask)</p>
 <p>✔️ Strong programming, refactoring, and debugging skills</p>
-<p>✔️ Implementation of messaging services like RabbitMQ</p>
-<p>✔️ Integration of external APIs like Moralis, OpenPix, Banco Genial, Metamap</p>
 
 <p>Other Skills:</p>
 
-<p>✔️ Proficient in remote collaboration, seamlessly integrating into teams adopting agile practices.</p>
-<p>✔️ Independent, problem-solving expert, consistently embracing a proactive approach.</p>
-<p>✔️ A strong affinity for crafting meticulously planned, testable, and efficient code;</p>
-<p>✔️ Enthusiastic about self-directed learning, always curious and motivated to create and develop innovative projects.</p>
+<p>✔️ Proficient in remote collaboration and agile development practices</p>
+<p>✔️ Independent problem-solving and proactive approach to challenges</p>
+<p>✔️ Commitment to writing clean, testable, and efficient code</p>
+<p>✔️ Continuous learning and staying updated with the latest blockchain and backend technologies</p>
 <hr>
 
 ## Technologies that I use in my daylife
