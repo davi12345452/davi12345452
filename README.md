@@ -56,7 +56,7 @@
   <a href="https://www.linkedin.com/in/davi-janisch-maia-a67275209/" target="_blank" rel="noopener noreferrer">
     <img height="30" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/wg452" target="_blank" rel="noopener noreferrer">
+  <a href="https://x.com/wg452" target="_blank" rel="noopener noreferrer">
     <img height="30" alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/davi_maia123/" target="_blank" rel="noopener noreferrer">
