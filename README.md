@@ -1,38 +1,53 @@
-## Hi, I'm Davi Janisch Maia, a Software Engineer
+# Davi Janisch Maia | Software Engineer
 
-![Davi's GitHub stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
 
-## About me
+## 👨‍💻 About Me
 
-<div>
-<p>Experienced backend developer specializing in Node.js and blockchain technologies, with a focus on Solidity smart contract development. Proficient in creating robust backend solutions, designing and implementing APIs, and leveraging blockchain capabilities to enhance system functionality. Skilled in developing and deploying smart contracts, with a deep understanding of blockchain protocols and decentralized applications. Committed to delivering high-quality, scalable solutions that bridge traditional backend systems with cutting-edge blockchain technologies.</p>
-</div>
+Experienced backend developer specializing in **Node.js** and **blockchain technologies**, with a focus on **Solidity smart contract development**. I bridge traditional backend systems with cutting-edge blockchain technologies to deliver scalable, high-quality solutions.
 
-<p>Skills:</p>
+I excel in designing robust backend architectures, implementing RESTful APIs, and leveraging blockchain capabilities to enhance system functionality. With deep knowledge of blockchain protocols and decentralized applications, I develop and deploy smart contracts that meet business needs while ensuring security and efficiency.
 
-<p>✔️ Node.js and Express.js for server-side development</p>
-<p>✔️ NestJS framework for building efficient and scalable server-side applications</p>
-<p>✔️ RESTful API design and implementation</p>
-<p>✔️ Database development and integration (PostgreSQL, MySQL) using ORMs like Prisma or TypeORM</p>
-<p>✔️ Solidity smart contract development for various applications (NFTs, RWAs, DeFi)</p>
-<p>✔️ Ethereum blockchain integration and Web3.js library usage</p>
-<p>✔️ Unit testing with Jest and other testing frameworks</p>
-<p>✔️ Version control with Git and GitHub</p>
-<p>✔️ Containerization with Docker</p>
-<p>✔️ Cloud services implementation (AWS, Google Cloud)</p>
-<p>✔️ Asynchronous messaging with RabbitMQ</p>
-<p>✔️ Integration of blockchain-related APIs (Moralis, Metamask)</p>
-<p>✔️ Strong programming, refactoring, and debugging skills</p>
+## 🛠️ Technical Expertise
 
-<p>Other Skills:</p>
+### Backend Development
+- **Node.js** ecosystem (Express.js, NestJS)
+- RESTful API design and implementation
+- Database integration with **PostgreSQL** and **MySQL** using ORMs (**Prisma**, TypeORM)
+- Asynchronous messaging with **RabbitMQ**
+- Unit testing with **Jest**
 
-<p>✔️ Proficient in remote collaboration and agile development practices</p>
-<p>✔️ Independent problem-solving and proactive approach to challenges</p>
-<p>✔️ Commitment to writing clean, testable, and efficient code</p>
-<p>✔️ Continuous learning and staying updated with the latest blockchain and backend technologies</p>
-<hr>
+### Blockchain Development
+- **Solidity** smart contract development for NFTs, RWAs, and DeFi applications
+- **Ethereum** blockchain integration
+- Web3.js implementation
+- Integration of blockchain APIs (Moralis, Metamask)
 
-## Technologies that I use in my daylife
+### DevOps & Infrastructure
+- Containerization with **Docker**
+- Cloud services implementation (**AWS**, Google Cloud)
+- Version control with **Git** and GitHub
+- CI/CD workflows
+
+### Data Science
+- **Python** for data analysis and automation
+- Libraries: **NumPy**, **scikit-learn**
+- Data visualization and processing
+
+### Programming Languages
+- TypeScript/JavaScript
+- Solidity
+- Python
+- Rust
+
+## 💼 Professional Qualities
+
+- Remote collaboration and agile development expertise
+- Independent problem-solving with a proactive approach
+- Clean, testable, and efficient code practices
+- Continuous learning mindset
+
+## 🚀 Tech Stack
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 10px; justify-items: center;">
   <img height="30" alt="python" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
@@ -50,7 +65,13 @@
   <img height="30" alt="numpy" src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white" />  
 </div>
 
-## Feel free to connect with me!
+## 📈 Recent Projects
+
+- **DeFi Lending Platform**: Developed smart contracts for a decentralized lending protocol with variable interest rates
+- **NFT Marketplace Backend**: Built a scalable API system managing NFT metadata and transactions
+- **Real-World Asset Tokenization**: Implemented a system for tokenizing traditional assets on the blockchain
+
+## 🔗 Let's Connect!
 
 <div style="display: flex; gap: 15px; justify-content: center;">
   <a href="https://www.linkedin.com/in/davi-janisch-maia-a67275209/" target="_blank" rel="noopener noreferrer">
@@ -63,4 +84,3 @@
     <img height="30" alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
   </a>
 </div>
-
