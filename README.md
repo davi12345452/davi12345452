@@ -1,8 +1,5 @@
 # Davi Janisch Maia | Software Engineer — Applied AI, Backend Architecture & Confidential Computing
 ![Profile Views](https://komarev.com/ghpvc/?username=davi12345452&label=Profile%20views&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=davi12345452&theme=onedark&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
-
 ---
 
 ### 🚀 Mission
