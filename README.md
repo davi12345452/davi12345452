@@ -1,63 +1,60 @@
-# Davi Janisch Maia | Backend & Web3 Engineer
-
-![Profile Views](https://komarev.com/ghpvc/?username=davi12345452\&label=Profile%20views\&color=blue)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi12345452\&theme=dark\&show_icons=true)
-[![Trophy](https://github-profile-trophy.vercel.app/?username=davi12345452\&theme=onedark\&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
+# Davi Janisch Maia | Software Engineer — Applied AI, Backend Architecture & Confidential Computing
+![Profile Views](https://komarev.com/ghpvc/?username=davi12345452&label=Profile%20views&color=blue)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davi12345452&theme=dark&show_icons=true)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=davi12345452&theme=onedark&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ### 🚀 Mission
-
-Crafting **innovative backend platforms** that power AI-driven products and **tokenize real‑world assets** on‑chain. I combine clean architecture, rock‑solid code quality, and DevOps automation to ship resilient software.
+Turning AI capabilities — LLMs, agents, document intelligence — into reliable, production-grade systems. I care about clear technical thinking, resilient architecture, and secure infrastructure as much as shipping fast.
 
 ---
 
 ## 👨‍💻 About Me
+Senior Software Engineer based in Florianópolis, Brazil, focused on **back-end development, system architecture, and applied AI**. My day-to-day spans AI-powered data/document pipelines, confidential computing (TEE-based secure infrastructure), and cloud-native backend systems — with a background in blockchain and tokenization that still informs how I think about trust, verification, and distributed systems.
 
-Brazilian software engineer with deep expertise in **Node.js / TypeScript** and **Solidity**. I bridge traditional backend services with decentralized finance, always guided by **SOLID principles**, **Clean Code**, and **Domain‑Driven Design**. My focus: scalable APIs, secure smart‑contract systems, and data‑intensive AI pipelines.
+I've moved from writing smart contracts to designing AI-native platforms — but the core hasn't changed: understand the problem deeply, design the system, ship it into production.
 
 ---
 
 ## 🔑 Core Principles
-
-* **SOLID** object‑oriented design
-* **Clean Architecture** & Hexagonal patterns
-* **Domain‑Driven Design (DDD)** strategic & tactical modeling
-* **Event‑driven & CQRS** for loose coupling
-* **Security‑first motto:** audits, automated tests, least‑privilege infra
+* **Systems thinking first** — architecture decisions before code
+* **Clean Architecture** & Domain-Driven Design
+* **Security-first infrastructure** — confidential computing, least-privilege by default
+* **AI as a production tool**, not a demo — reliability, observability, and real business fit
+* **Event-driven design** for loosely coupled, scalable services
 
 ---
 
 ## 🛠️ Tech Toolbox
 
-| Area                | Stack                                                                                                                                                                         |
-| ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Backend**         | NestJS · Express · Fastify · GraphQL · gRPC · BullMQ · Redis · PostgreSQL (+ Prisma) · MongoDB · Event‑sourcing                                                               |
-| **AI & Data**       | Python · LangChain · BentoML · scikit‑learn · pgvector · Qdrant                                                                                                               |
-| **Web3 / Solidity** | ERC‑20 · ERC‑721 · ERC‑1155 · UUPS & Transparent Proxies · Diamond pattern (EIP‑2535) · Access Control & Pausable · Chainlink Oracles · Hardhat · Foundry · OpenZeppelin libs |
-| **DevOps**          | Docker · Kubernetes · AWS (EKS, RDS, S3) · GitHub Actions · Terraform · ArgoCD · Prometheus & Grafana                                                                         |
-| **Quality**         | Jest · Vitest · Playwright · Slither · MythX · k6                                                                                                                             |
+| Area                   | Stack                                                                                          |
+| ---------------------- | ----------------------------------------------------------------------------------------------- |
+| **Backend**            | NestJS · Next.js · Express · GraphQL · PostgreSQL (+ Prisma) · Redis · Event-driven architectures |
+| **Applied AI**         | Python · Claude & Gemini API integration · LangChain · RAG pipelines · pgvector · Document intelligence / OCR pipelines |
+| **Confidential Computing** | GCP Confidential VMs · AMD SEV-SNP · Vault Transit · TEE-based secure AI workloads          |
+| **Cloud & Infra**      | GCP (Cloud Run, Cloud SQL, Cloud Build, IAM) · Docker · CI/CD                                    |
+| **Web3 / Solidity** *(background)* | ERC-20/721/1155 · Hardhat · Foundry · OpenZeppelin · Multi-chain (Gnosis, Polygon, Base) |
+| **Quality**            | Jest · Vitest · automated testing pipelines                                                       |
 
 ---
 
 ## 📂 Selected Work
-
-* **RWA Tokenization Gateway** – ERC‑3643 compliant issuance layer enabling on‑chain governance & secondary markets.
-* **AI Knowledge‑Base API** – Retrieval‑Augmented Generation service pairing pgvector search with GPT‑4o for multilingual support.
-* **DeFi Lending Protocol** – Collateral‑backed money markets with dynamic IR model and on‑chain risk parameters.
-* **E‑commerce Platform 2.0** – Microservice backend that reduced p99 latency by 45% under 10× load.
+* **AI-powered document intelligence pipelines** — extraction and structuring of technical/industrial documentation at scale for enterprise clients.
+* **Confidential AI infrastructure** — secure data processing on GCP Confidential VMs (AMD SEV-SNP) for regulated, privacy-sensitive workloads.
+* **Multi-chain tokenization platforms** — on-chain compliance flows (TREX/OnchainID concepts), wallet infrastructure, and KYC integration for real-asset offerings.
+* **AI-assisted engineering practice** — building and mentoring around AI-assisted development workflows (Claude Code, Cursor) across a growing engineering team.
 
 ---
 
 ## 🌱 Currently Exploring
-
-* Rust for ultra‑low‑latency microservices.
-* Zero‑Knowledge Proofs for private DeFi.
+* Interpretability and mechanistic understanding of LLMs.
+* Confidential computing patterns for multi-tenant AI workloads.
+* Systems-level thinking as a durable edge as AI commoditizes routine execution.
 
 ---
 
-## 🤝 Let’s Connect
-
+## 🤝 Let's Connect
 <a href="https://www.linkedin.com/in/davi-janisch-maia-a67275209/" target="_blank" rel="noopener noreferrer">
   <img height="30" alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
