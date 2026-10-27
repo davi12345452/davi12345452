@@ -11,7 +11,7 @@ verification in distributed systems.
   for enterprise clients.
 - **Confidential AI infrastructure.** Processing sensitive data on GCP Confidential VMs (AMD SEV-SNP) with
   least-privilege access and Vault Transit encryption.
-- **AI-assisted engineering.** Building and mentoring around AI-assisted development (Claude Code, Cursor) on a
+- **AI-assisted engineering.** Building and mentoring around AI-assisted development (Claude Coåde, Cursor) on a  
   growing team.
 - **Tokenization (background).** Multi-chain platforms with on-chain compliance (T-REX/OnchainID), wallet
   infrastructure and KYC for real-asset offerings.
